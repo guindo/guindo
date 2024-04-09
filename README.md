@@ -62,6 +62,46 @@ Bachelor's degree, Computer Science · (2014 - 2016)
 Technician certificate degree, Computer Science · (2012 - 2014)
 
 
+
+## Principales compétences
+**Machine Learning**  <br>
+- Image Processing and Computer vision Chemometrics
+
+**Languages**  <br>
+- Wolof (Native or Bilingual)
+- English (Full Professional)
+- French (Native or Bilingual)
+- Chinese (Elementary)
+- Bambara (Native or Bilingual)
+
+
+
+## Certifications
+- Innovation for Sustainable Development Goals
+- Introduction to Data Analytics
+
+
+## Honors-Awards
+- Internet and Innovation competition Internet + Competition
+- China-US Young Maker Competition
+
+## Publications
+- Chemometric Approach Based on Explainable AI for Rapid Assessment of Macronutrients in Different Organic Fertilizers Using Fusion Spectra
+- A novel raisin segmentation algorithm based on deep learning and morphological analysis
+- Deep Learning Combined with Hyperspectral Imaging Technology for Variety Discrimination of Fritillaria thunbergii
+- Potential of Vis-NIR to measure heavy metals in different varieties of organic fertilizer using Boruta and deep belief network
+- Deep Learning Associated with Laser-Induced Breakdown Spectroscopy (LIBS) for the Prediction of Lead in Soil
+
+
+## Patents
+- image segmentation method
+
+
+## How to Reach Me
+Mobile: 00221772647794
+G-Mail: leuzguindo@gmail.com
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guindo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guindo&show_icons=true)  
