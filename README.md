@@ -8,7 +8,6 @@ in machine learning and spectroscopy. I teach courses such as
 Image Processing,Machine learning. I am also data scientist
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/guindo)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guindo)](https://github.com/anuraghazra/github-readme-stats)
 
