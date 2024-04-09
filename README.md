@@ -63,7 +63,7 @@ Technician certificate degree, Computer Science · (2012 - 2014)
 
 
 
-## Principales compétences
+## Principales Skills
 **Machine Learning**  <br>
 - Image Processing and Computer vision Chemometrics
 
@@ -98,8 +98,8 @@ Technician certificate degree, Computer Science · (2012 - 2014)
 
 
 ## How to Reach Me
+E-Mail: **leuzguindo@gmail.com**
 Mobile: 00221772647794
-G-Mail: leuzguindo@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guindo)](https://github.com/anuraghazra/github-readme-stats)
