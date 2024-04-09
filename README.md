@@ -36,9 +36,10 @@ teaching different courses such as machine learning and computer vision
 courses, enhancing the learning experience for students.
 
 
-## e-amarante Software Engineer Intern
+## e-amarante
+**Software Engineer Intern**  <br>
 **décembre 2015 - mars 2016 (4 mois)**  <br>
-**Dakar Region, Senegal**  <br>
+Dakar Region, Senegal  <br>
 As an intern at e-amarante, I gained practical experience in software
 development and database management. I actively contributed to the design
 and implementation of projects, showcasing my skills in Ruby On Rails(MvC)
