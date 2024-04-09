@@ -1,108 +1,102 @@
-## Hi, I'm Guindo Guindo
+<h1 align="center">Hi, I'm Mahamed Lamine Guindo, PhD</h1>
 
-![](https://github.com/guindo/guindo/blob/main/welcome1.png?raw=true)
+<p align="center">
+  <img src="https://github.com/guindo/guindo/blob/main/welcome1.png?raw=true" alt="Welcome Banner">
+</p>
 
-## About Me
-I combine my passion for education and research with my expertise
-in machine learning and spectroscopy. I teach courses such as
-Image Processing,Machine learning. I am also data scientist
+<p align="center">
+  📘 <a href="#about-me" title="About Me">About Me</a> •
+  💼 <a href="#experience" title="Experience">Experience</a> •
+  🎓 <a href="#education" title="Education">Education</a> •
+  💡 <a href="#skills" title="Skills">Skills</a> •
+  🛠️ <a href="#projects" title="Projects">Projects</a> •
+  📜 <a href="#certifications" title="Certifications">Certifications</a> •
+  📚 <a href="#publications-and-research" title="Publications">Publications</a> •
+  📄 <a href="#patents" title="Patents">Patents</a> •
+  🎖️ <a href="#extra-curricular-activities" title="Activities">Activities</a> •
+  ✉️ <a href="#contact" title="Contact">Contact</a> •
+  📊 <a href="#statistics" title="Statistics">Statistics</a>
+</p>
 
-## Expérience
-### Dakar American University of Science and Technology (DAUST)
-**Part Time Teacher<br>
-août 2023 - Present (6 mois)** <br>
-In this role, I contribute to the academic environment by teaching and
-conducting research in various computer science domains, specializing in
-machine learning, and computer vision.
+## 📘📘📘About Me📘📘📘
+With a Ph.D. in Information Technology in Agriculture from Zhejiang University, I specialize in developing novel technologies for pattern detection using advanced AI and optical devices. My goal is to advance knowledge in computer science and its applications, especially in agriculture.
 
-## Intelligent Garden and Ecosystems (IGE LAB)
-**Research Assistant(Ph.D. Candidate)**  <br>
-**septembre 2019 - juin 2023 (3 ans 10 mois)** <br>
-Hangzhou, Zhejiang, China<br>
-As a Ph.D. candidate and Research Assistant at IGE LAB, I have actively
-contributed to groundbreaking research in the intersection of artificial
-intelligence and agriculture. My work involves developing novel technologies
-for pattern detection in agricultural fields and food using advanced A.I. and
-Optical devices
+## 💼Experience
+### Lecturer of Computer Science
+**Dakar American University of Science and Technology, Dakar/Senegal**<br>
+_September 2023 - August 2024_<br>
+Specializing in machine learning, programming (C++, web development), and computer vision, I contribute to the academic environment through teaching and research in various computer science domains.
 
+### Research Assistant (Ph.D. Candidate)
+**Institute of Agricultural Information Technology (Intelligent Garden and Ecohealth Lab), Hangzhou/China**<br>
+_September 2019 - June 2023_<br>
+As a Ph.D. candidate, I contributed to groundbreaking research in the intersection of artificial intelligence and agriculture, developing novel technologies for pattern detection in agricultural fields and food using advanced AI and optical devices.
 
-## Zhejiang University of Science &Technology
-**Teaching Assistant**  <br>
-**octobre 2017 - mai 2019 (1 an 8 mois)**  <br>
-Hangzhou, Zhejiang, China<br>
-In this role, I provided valuable support during teaching tasks and project
-development at Zhejiang University of Science & Technology. I assisted in
-teaching different courses such as machine learning and computer vision
-courses, enhancing the learning experience for students.
+### Teaching Assistant
+**Zhejiang University of Science and Technology, Hangzhou/China**<br>
+_September 2016 - June 2019_<br>
+Provided support in teaching and project development, assisting in courses like machine learning and computer vision.
 
+### Software Engineer Intern
+**e-amarante**<br>
+_November 2015 - March 2016_<br>
+Gained practical experience in software development, working with Ruby On Rails, SQL, and MySQL.
 
-## e-amarante
-**Software Engineer Intern**  <br>
-**décembre 2015 - mars 2016 (4 mois)**  <br>
-Dakar Region, Senegal  <br>
-As an intern at e-amarante, I gained practical experience in software
-development and database management. I actively contributed to the design
-and implementation of projects, showcasing my skills in Ruby On Rails(MvC)
-SQL and MySQL
+## 🎓Education
+- **PhD in Information Technology in Agriculture**<br>
+  Zhejiang University, Hangzhou
+- **Master's Degree in Advanced Manufacturing and Information Technology**<br>
+  Zhejiang University of Science and Technology, Hangzhou
+- **Bachelor's Degree in Computer Science**<br>
+  University Cheikh Anta Diop (Dakar University), Dakar
+- **Technician Certificate Degree in Computer Science**<br>
+  Ecole Supérieure Polytechnique de Dakar
 
-## Formation
-**Zhejiang University**  <br>
-Doctor of Philosophy - PhD, Information Technology in Agriculture · (septembre 2019 - juin 2023)
+## 💡Skills
+- Machine Learning, Data Analysis, Computer Vision
+- Web Development (HTML, CSS, JavaScript), Chemometrics, Unix Programming
+- Smart Agriculture, Communication, Lesson Planning, Classroom Management
 
-
-**Zhejiang University of Science &Technology**  <br>
-Master’s Degree, Advanced Manufacturing and Informatization · (2016 - 2018)
-
-
-**Université Cheikh Anta Diop de Dakar (UCAD)**  <br>
-Bachelor's degree, Computer Science · (2014 - 2016)
-
-
-**Ecole Supérieure Polytechnique de Dakar**  <br>
-Technician certificate degree, Computer Science · (2012 - 2014)
-
-
-
-## Principales Skills
-**Machine Learning**  <br>
-- Image Processing and Computer vision Chemometrics
-
-**Languages**  <br>
-- Wolof (Native or Bilingual)
-- English (Full Professional)
-- French (Native or Bilingual)
-- Chinese (Elementary)
-- Bambara (Native or Bilingual)
+### Languages
+## Languages
+![English](https://img.shields.io/badge/-English-brightgreen?style=flat&logo=google-translate&logoColor=white) (Fluent)<br>
+![French](https://img.shields.io/badge/-French-blue?style=flat&logo=google-translate&logoColor=white) (Native)<br>
+![Wolof](https://img.shields.io/badge/-Wolof-red?style=flat&logo=google-translate&logoColor=white) (Native)<br>
+![Chinese](https://img.shields.io/badge/-Chinese-yellow?style=flat&logo=google-translate&logoColor=white) (Beginner)<br>
+![Bambara](https://img.shields.io/badge/-Bambara-lightgrey?style=flat&logo=google-translate&logoColor=white) (Native)<br>
 
 
+## 🛠️Projects
+- **Project 1**: Description of what the project entails and the technologies used.
+- **Project 2**: Brief details about the project and its impact or goal.
+- **Company Project**: Overview of the project developed during professional experience.
 
-## Certifications
-- Innovation for Sustainable Development Goals
-- Introduction to Data Analytics
+## 📜Certifications
+- Introduction to Data Analytics by IBM (2021)
+- Deep Learning A-Z™ by Udemy (2019)
+- Innovation for Sustainable Development Goals (Tsinghua University 2021)
 
-
-## Honors-Awards
-- Internet and Innovation competition Internet + Competition
-- China-US Young Maker Competition
-
-## Publications
-- Chemometric Approach Based on Explainable AI for Rapid Assessment of Macronutrients in Different Organic Fertilizers Using Fusion Spectra
-- A novel raisin segmentation algorithm based on deep learning and morphological analysis
-- Deep Learning Combined with Hyperspectral Imaging Technology for Variety Discrimination of Fritillaria thunbergii
-- Potential of Vis-NIR to measure heavy metals in different varieties of organic fertilizer using Boruta and deep belief network
-- Deep Learning Associated with Laser-Induced Breakdown Spectroscopy (LIBS) for the Prediction of Lead in Soil
+## 📚Publications and Research
+- [Potential of Vis-NIR to measure heavy metals in organic fertilizers](https://doi.org/10.1016/j.ecoenv.2021.112996)
+- [Advancing precision agriculture with deep learning for cereal plant head detection](https://doi.org/10.1016/j.compag.2023.107875)
+- [Chemometric Approach for Rapid Assessment of Macronutrients in Organic Fertilizers](https://doi.org/10.3390/molecules28020799)
+- Full List Click here [Google Scholar](https://scholar.google.com/citations?user=yourID)
 
 
 ## Patents
-- image segmentation method
+- [An image segmentation method](https://patents.google.com/patent/CN107977972B/zh)
 
+## 🎖️Extra-Curricular Activities
+- China-US Young Maker Competition, Hosted by the Chinese Ministry of Education, Hangzhou
+- Internet+ Competition, Zhejiang Province, Hangzhou
 
-## How to Reach Me
-**E-Mail:** leuzguindo@gmail.com <br>
-**Mobile:** 00221772647794  <br>
+## ✉️Contact
+📧 [leuzguindo@gmail.com](mailto:leuzguindo@gmail.com)<br>
+📱 00221772647794<br>
+[LinkedIn](https://www.linkedin.com/in/mahamedlamineguindo)<br>
+[Google Scholar](https://scholar.google.com/citations?user=yourID)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guindo)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guindo&show_icons=true)  
-
+## Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guindo&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=guindo&show_icons=true> </p>
