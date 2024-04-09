@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Guindo Guindo
 
-<!--
-**guindo/guindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/guindo/guindo/blob/main/welcome1.png?raw=true)
 
-Here are some ideas to get you started:
+## About Me
+I combine my passion for education and research with my expertise
+in machine learning and spectroscopy. I teach courses such as
+Image Processing,Machine learning. I am also data scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/guindo)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guindo)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guindo&show_icons=true)  
+
