@@ -9,8 +9,8 @@ Image Processing,Machine learning. I am also data scientist
 
 ## Expérience
 ### Dakar American University of Science and Technology (DAUST)
-    Part time teacher août 2023 - Present (6 mois)
-- In this role, I contribute to the academic environment by teaching and
+**Part time teacher août 2023 - Present (6 mois)**
+In this role, I contribute to the academic environment by teaching and
 conducting research in various computer science domains, specializing in
 machine learning, and computer vision.
 
