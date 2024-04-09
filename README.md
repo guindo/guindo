@@ -45,6 +45,22 @@ development and database management. I actively contributed to the design
 and implementation of projects, showcasing my skills in Ruby On Rails(MvC)
 SQL and MySQL
 
+## Formation
+**Zhejiang University**  <br>
+Doctor of Philosophy - PhD, Information Technology in Agriculture · (septembre 2019 - juin 2023)
+
+
+**Zhejiang University of Science &Technology**  <br>
+Master’s Degree, Advanced Manufacturing and Informatization · (2016 - 2018)
+
+
+**Université Cheikh Anta Diop de Dakar (UCAD)**  <br>
+Bachelor's degree, Computer Science · (2014 - 2016)
+
+
+**Ecole Supérieure Polytechnique de Dakar**  <br>
+Technician certificate degree, Computer Science · (2012 - 2014)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guindo)](https://github.com/anuraghazra/github-readme-stats)
 
